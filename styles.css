@@ -135,7 +135,7 @@
     text-align: right;
 }
 
-@media (min-width: 992px) {
+/* @media (min-width: 992px) {
     .container {
         display: flex;
     }
@@ -150,4 +150,4 @@
     .experiences-column .expecience-date {
         width: 200px;
     }
-}
+}*/
