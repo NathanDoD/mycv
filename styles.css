@@ -38,7 +38,7 @@
     margin-right: 10px;
 }
 
-/*.Information-column h1 {
+.Information-column h1 {
     color: white;
 }
 
@@ -59,11 +59,11 @@
 .Information-column p {
     color: white;
     margin-right: 10px;
-}*/
+}
 
 .Information-column img {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     border: 2px inset gray;
     margin-bottom: 18px;
