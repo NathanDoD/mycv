@@ -8,6 +8,11 @@
 }
 
 .container {
+    width: 320px;
+    text-align: center;
+    margin-top: 41px;
+    margin-left: auto;
+    margin-left: auto;
 }
 
 .Information-column {
